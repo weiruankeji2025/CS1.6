@@ -6,15 +6,9 @@
 - 巷战背景（街区、建筑块、掩体点位）
 - 好操控（主路宽、转点清晰、出生点分散）
 
-## 宣传海报
-
-![de_xiangzhan_big 宣传海报](assets/posters/de_xiangzhan_big_poster.svg)
-
-> 海报文件：`assets/posters/de_xiangzhan_big_poster.svg`（可直接用于社区帖子、群公告或服务器介绍页）
 
 ## 地图文件
 
-- `maps/de_xiangzhan_big.map`
 
 ## 设计要点
 
